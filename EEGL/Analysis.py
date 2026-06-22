@@ -6,7 +6,7 @@ import pprint
 import networkx as nx
 import torch
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
-from Jan.Visualisation import *
+from SUBTREEGL.Visualisation import *
 import matplotlib.cm as cm
 
 

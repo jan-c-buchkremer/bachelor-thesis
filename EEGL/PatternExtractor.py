@@ -1,6 +1,6 @@
-from Jan.FrequentSubtreeMining import *
+from SUBTREEGL.FrequentSubtreeMining import *
 from concurrent.futures import ProcessPoolExecutor, as_completed
-from Jan.Visualisation import visualiseTree
+from SUBTREEGL.Visualisation import visualiseTree
 import Seba.OuterplanarPatternMiner as Opm
 from SubgraphSolver import subgraphIsoTest
 from joblib import Parallel, delayed

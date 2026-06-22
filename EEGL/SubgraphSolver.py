@@ -1,4 +1,4 @@
-from Jan.SubTreeIsoTester import SubTreeIsoTester
+from SUBTREEGL.SubTreeIsoTester import SubTreeIsoTester
 from networkx.algorithms import isomorphism
 import networkx as nx
 import subprocess

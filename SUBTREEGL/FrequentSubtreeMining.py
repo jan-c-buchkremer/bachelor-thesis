@@ -1,5 +1,5 @@
-from Jan.Visualisation import *
-from Jan.Glasgow import glasgowIsoTest
+from SUBTREEGL.Visualisation import *
+from SUBTREEGL.Glasgow import glasgowIsoTest
 import networkx as nx
 import time
 import pickle as pkl

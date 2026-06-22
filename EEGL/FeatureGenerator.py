@@ -1,5 +1,5 @@
 import gc
-from Jan.GuidanceTree import *
+from SUBTREEGL.GuidanceTree import *
 from SubgraphSolver import subgraphIsoTest
 from joblib import Parallel, delayed
 from tqdm import tqdm

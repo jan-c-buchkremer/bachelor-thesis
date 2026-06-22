@@ -1,5 +1,5 @@
-from Jan.FrequentSubtreeMining import getFTMdata
-from Jan.Visualisation import *
+from SUBTREEGL.FrequentSubtreeMining import getFTMdata
+from SUBTREEGL.Visualisation import *
 import pickle as pkl
 from EEGL.SubgraphSolver import subgraphIsoTest
 

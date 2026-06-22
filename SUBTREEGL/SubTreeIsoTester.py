@@ -1,5 +1,5 @@
-from Jan.Visualisation import visualiseTree, visualiseBipartiteGraph
-from Jan.GuidanceTree import *
+from SUBTREEGL.Visualisation import visualiseTree, visualiseBipartiteGraph
+from SUBTREEGL.GuidanceTree import *
 import networkx as nx
 import time
 

@@ -1,7 +1,7 @@
-from Jan.SubTreeIsoTester import SubTreeIsoTester
-from Jan.Visualisation import visualiseTree
-from Jan.Glasgow import glasgowIsoTest
-from Jan.TreeGenerator import TreeIterator
+from SUBTREEGL.SubTreeIsoTester import SubTreeIsoTester
+from SUBTREEGL.Visualisation import visualiseTree
+from SUBTREEGL.Glasgow import glasgowIsoTest
+from SUBTREEGL.TreeGenerator import TreeIterator
 from joblib import Parallel, delayed
 import networkx as nx
 from time import time
