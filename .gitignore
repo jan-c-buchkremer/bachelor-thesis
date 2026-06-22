@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# Data
+data/temps/
+data/eeglRuns/
+data/levelGraphs/
+*.pkl
+*.dot
+
+# External
+external/
